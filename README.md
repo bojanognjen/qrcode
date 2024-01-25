@@ -1,3 +1,3 @@
 # Naslov
 
-Ovo je neki tekst.
+Ovo je neki tekst!
